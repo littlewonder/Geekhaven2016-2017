@@ -10,6 +10,13 @@
 ###Members
 
 
+##App Development
+###Coordinators
+* [Ratul Ghosh](https://github.com/RatulGhosh)
+* [Satyam Poddar](https://github.com/flare505) 
+
+###Members
+
 ##Networking
 ###Coordinators:
 
@@ -24,12 +31,6 @@
 ###Members
 
 
-##App Development
-###Coordinators
-* [Ratul Ghosh](https://github.com/RatulGhosh)
-* [Satyam Poddar](https://github.com/flare505) 
-
-###Members
 
 
 ##Competitive Coding
