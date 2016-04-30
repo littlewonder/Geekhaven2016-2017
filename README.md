@@ -7,15 +7,15 @@
 ###Coordinators:
 
 
-###Members
+###Members:
 
 
 ##App Development
-###Coordinators
+###Coordinators:
 * [Ratul Ghosh](https://github.com/RatulGhosh)
 * [Satyam Poddar](https://github.com/flare505) 
 
-###Members
+###Members:
 
 ##Networking
 ###Coordinators:
@@ -25,23 +25,23 @@
 
 
 ##FOSS
-###Coordinators
+###Coordinators:
 
 
-###Members
+###Members:
 
 
 
 
 ##Competitive Coding
-###Coordinators
+###Coordinators:
 
-###Members
+###Members:
 
 
 ##Graphics Wing
-###Coordinators
+###Coordinators:
 
 
-###Members
+###Members:
 
