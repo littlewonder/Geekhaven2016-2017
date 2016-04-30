@@ -9,7 +9,8 @@
 
 
 ###Members:
-
+* [Chaitanya Yadav](https://github.com/BelieveC)
+* [Aditya Dewan](https://github.com/dewana-dewan)
 
 ##App Development
 ###Coordinators:
@@ -30,9 +31,12 @@
 ##FOSS
 ###Coordinators:
 * [Sarthak Panda](https://github.com/sarthak96)
+* [Kaustubh Shamshery](https://github.com/KaustubhShamshery)
 
 ###Members:
 * [Himanshu Shekhar](https://github.com/himanshub16)
+* [Mubaris NK](https://github.com/mubumbz)
+* [M Diwakar](https://github.com/magician03)
 * [Faheem Hassan Zunjani](https://github.com/faheemzunjani)
 
 
