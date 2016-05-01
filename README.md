@@ -1,7 +1,7 @@
 #GeekHaven Committee 2016-17
 
 
-##Gymkhana Representative
+##Overall Coordinator
 * [Abhishek Deora](https://github.com/adeora7)
 
 
