@@ -50,7 +50,7 @@
 * [Teja Vojjala](https://github.com/iit2014086)
 
 ###Members:
-
+* [Satyarth Agrahari](https://github.com/satylogin)
 
 ##Graphics Wing
 ###Coordinators:
