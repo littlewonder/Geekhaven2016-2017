@@ -12,7 +12,7 @@
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
 * [Aditya Dewan](https://github.com/dewana-dewan)
-
+* [Shubham Padia](https://github.com/shubham-padia)
 
 ##App Development
 ###Coordinators:
