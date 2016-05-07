@@ -54,6 +54,7 @@
 
 ###Members:
 * [Satyarth Agrahari](https://github.com/satylogin)
+* [Saurabh Mishra](https://github.com/sarkysaurabh)
 
 ##Graphics Wing
 ###Coordinators:
