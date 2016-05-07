@@ -12,11 +12,8 @@
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
 * [Aditya Dewan](https://github.com/dewana-dewan)
-<<<<<<< HEAD
 * [Abhinav Khare](https://github.com/CosmicCoder96)
-=======
 * [Shubham Padia](https://github.com/shubham-padia)
->>>>>>> upstream/master
 
 ##App Development
 ###Coordinators:
