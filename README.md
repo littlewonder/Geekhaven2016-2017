@@ -39,6 +39,7 @@
 * [Kaustubh Shamshery](https://github.com/KaustubhShamshery)
 
 ###Members:
+* [Anujraaj Goel](https://github.com/goel42)
 * [Himanshu Shekhar](https://github.com/himanshub16)
 * [Mubaris NK](https://github.com/mubumbz)
 * [M Diwakar](https://github.com/magician03)
