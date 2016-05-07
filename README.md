@@ -12,7 +12,11 @@
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
 * [Aditya Dewan](https://github.com/dewana-dewan)
+<<<<<<< HEAD
 * [Abhinav Khare](https://github.com/CosmicCoder96)
+=======
+* [Shubham Padia](https://github.com/shubham-padia)
+>>>>>>> upstream/master
 
 ##App Development
 ###Coordinators:
@@ -51,11 +55,12 @@
 * [Teja Vojjala](https://github.com/iit2014086)
 
 ###Members:
-
+* [Satyarth Agrahari](https://github.com/satylogin)
 
 ##Graphics Wing
 ###Coordinators:
 
 
 ###Members:
-
+* [Jayesh Patil](https://github.com/Donny97)
+* [Rohan Chaudhary](https://github.com/rohanrc1997)
