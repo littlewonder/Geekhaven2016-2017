@@ -12,7 +12,11 @@
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
 * [Aditya Dewan](https://github.com/dewana-dewan)
+<<<<<<< HEAD
+* [Abhinav Khare](https://github.com/CosmicCoder96)
+=======
 * [Shubham Padia](https://github.com/shubham-padia)
+>>>>>>> upstream/master
 
 ##App Development
 ###Coordinators:
@@ -20,6 +24,7 @@
 * [Satyam Poddar](https://github.com/flare505) 
 
 ###Members:
+* [Affan Ahmed Fahmi](https://github.com/anonymous-ME)
 * [Sayantan Chatterjee](https://github.com/coderIlluminatus)
 * [Chinmoy Das](https://github.com/chinmoy159-1) 
 
